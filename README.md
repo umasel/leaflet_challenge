@@ -1,6 +1,8 @@
 # leaflet_challenge
 ------------------------------------
 Bootcamp Module 15 challenge Using Leaflet API , javaScript and D3 to plot geographical visualization of earthquake data available on the United States Geological Survey(USGS) website.
+![230457645-8f0af890-de7b-4d56-b317-14dc89e6c8a8](https://github.com/user-attachments/assets/204f7bfe-4595-4ec3-8ce2-99c213106d12)
+
 
 1-Logo The United States Geological Survey provides real time data and information on earthquake observations around the world. This challenge provides a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
