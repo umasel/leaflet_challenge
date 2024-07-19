@@ -1,4 +1,5 @@
 # leaflet_challenge
+The link is https://umasel.github.io/leaflet_challenge/
 ------------------------------------
 Bootcamp Module 15 challenge Using Leaflet API , javaScript and D3 to plot geographical visualization of earthquake data available on the United States Geological Survey(USGS) website.
 ![230457645-8f0af890-de7b-4d56-b317-14dc89e6c8a8](https://github.com/user-attachments/assets/204f7bfe-4595-4ec3-8ce2-99c213106d12)
